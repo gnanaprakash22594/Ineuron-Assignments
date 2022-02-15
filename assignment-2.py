@@ -1,4 +1,4 @@
-#1a
+#2a
 
 rows = 5 
 for i in range(0, rows):  
@@ -14,7 +14,7 @@ for i in range(rows, 0, -1):
     print(" ") 
 
 
-#1b
+#2b
 
 word = input("Enter a word:")[::-1]
 print(word)
